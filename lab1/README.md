@@ -1,15 +1,5 @@
 Тема проекта: веб-приложение для файлообмена
 
-
-Тип приложения: Web MPA. 
-
-
-Технологический стек: html, css, js, php, mysql, linux, apache, jQuery, RedBean ORM. 
-
-
-Архитектурная концепция: MVC.
-
-
 use-case diagram
 
 ![use-case](https://github.com/1Bitcoin/software-design/blob/master/lab1/diagrams/use-case.png "use-case diagram")
