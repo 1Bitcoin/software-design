@@ -12,7 +12,7 @@
 
 use-case diagram
 
-![use-case](lab1/diagrams/use-case.png "use-case diagram")
+![use-case](/diagrams/use-case.png "use-case diagram")
 
 
 er diagram
