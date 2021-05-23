@@ -1,0 +1,83 @@
+.button-list {
+  display: inline-block;
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+  outline: none;
+  border-width: 1px 0;
+  border-style: solid none;
+  border-color: #FDBE33 #000 #D77206;
+  border-radius: 10px;
+  background: linear-gradient(#F3AE0F, #E38916) #E38916;
+  transition: 0.2s;
+
+} 
+a.button-list:hover { background: linear-gradient(#f5ae00, #f59500) #f5ae00; }
+a.button-list:active { background: linear-gradient(#f59500, #f5ae00) #f59500; }
+
+.button-register {
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    outline: none;
+    border-width: 1px 0;
+    border-style: solid none;
+    border-radius: 10px;
+    background: linear-gradient(#0f66f3, #164de3) #1698e3;
+    transition: 0.2s;
+  
+  } 
+  a.button-register:hover { background: linear-gradient(#0f66f3, #0f66f3) #0f66f3; }
+  a.button-register:active { background: linear-gradient(#0f66f3, #0f66f3) #0f66f3; }
+
+  .button-login {
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    outline: none;
+    border-width: 1px 0;
+    border-style: solid none;
+    border-radius: 10px;
+    background: linear-gradient(#660ff3, #660ff3) #660ff3;
+    transition: 0.2s;
+  
+  } 
+
+  a.button-login:hover { background: linear-gradient(#660ff3, #660ff3) #660ff3; }
+  a.button-login:active { background: linear-gradient(#660ff3, #660ff3) #660ff3; }
+
+  .button-logout {
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    outline: none;
+    border-width: 1px 0;
+    border-style: solid none;
+    border-radius: 10px;
+    background: linear-gradient(#f30f79, #f30f79) #f30f79;
+    transition: 0.2s;
+  
+  } 
+
+  a.button-logout:hover { background: linear-gradient(#f30f79, #f30f79) #f30f79; }
+  a.button-logout:active { background: linear-gradient(#f30f79, #f30f79) #f30f79; }
+
+  .button-delete {
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    outline: none;
+    border-width: 1px 0;
+    border-style: solid none;
+    border-radius: 10px;
+    background: linear-gradient(#e40e0e, #e40e0e) #e40e0e;
+    transition: 0.2s;
+  
+  } 
+
+  li.button-delete:hover { background: linear-gradient(#e40e0e, #e40e0e) #e40e0e; }
+  li.button-delete:active { background: linear-gradient(#e40e0e, #e40e0e) #e40e0e; }

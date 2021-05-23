@@ -1,0 +1,16 @@
+.button-home {
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    outline: none;
+    border-width: 1px 0;
+    border-style: solid none;
+    border-color: #b6b2a9 #000 #b6b2a9;
+    border-radius: 10px;
+    background: linear-gradient(#8d8778, #8d8778) #8d8778;
+    transition: 0.2s;
+  
+  } 
+  a.button-home:hover { background: linear-gradient(#f5ae00, #f59500) #f5ae00; }
+  a.button-home:active { background: linear-gradient(#f59500, #f5ae00) #f59500; }

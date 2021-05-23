@@ -1,0 +1,5 @@
+guest password_guest
+user password_user
+moderator password_moderator
+administrator password_administrator
+localhost file_hosting
