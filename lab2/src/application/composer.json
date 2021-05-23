@@ -1,0 +1,8 @@
+{
+ "require": {
+ "gabordemooij/redbean": "dev-master"
+ },
+ "require-dev": {
+  "phpunit/phpunit": "^8"
+ }
+}
